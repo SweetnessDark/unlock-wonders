@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/unlock-wonders/static/css/main.7acaea2f.css",
+    "main.js": "/unlock-wonders/static/js/main.07d3183d.js",
+    "index.html": "/unlock-wonders/index.html",
+    "main.7acaea2f.css.map": "/unlock-wonders/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/unlock-wonders/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
